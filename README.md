@@ -26,7 +26,7 @@
 
 
 <p align = "center">
-•<strong> All my projects are available at my <a href="https://github.com/Edenik"> Profolio </a></strong>
+•<strong> All my projects are available at my <a href="https://github.com/Edenik?tab=repositories"> Profolio </a></strong>
 </p>
   
   
