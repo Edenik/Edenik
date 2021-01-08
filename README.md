@@ -63,6 +63,11 @@
 </p>
 
 <br>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edenik&layout=compact"/>
+</p>
+
+<br>
 
 <h3 align="center">Programming Languages, Frameworks and Tools:</h3>
 
@@ -98,7 +103,4 @@
                         height="40" /></a>
 </p>
 
-<br>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edenik&layout=compact"/>
-</p>
+
