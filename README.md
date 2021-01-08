@@ -11,7 +11,8 @@
 <table align="center">
         <thead>
                 <tr>
-                        <th align="center"><a href="https://github.com/Edenik/Flutter_Send_Whatsapp_App">Whatsapp Send
+                        <th align="center">
+                        <a href="https://github.com/Edenik/Flutter_Send_Whatsapp_App">Whatsapp Send
                                 </a></th>
                         <th align="center"><a
                                         href="https://github.com/Edenik/InstaDart-Flutter-Instagram-Clone">InstaDart</a>
@@ -96,3 +97,6 @@
                         src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="flutter" width="40"
                         height="40" /></a>
 </p>
+
+<br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edenik&layout=compact"/>
