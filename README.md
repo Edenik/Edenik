@@ -79,12 +79,15 @@
         <a href="https://getbootstrap.com/" target="_blank"> <img
                         src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="bootstrap" width="40"
                         height="40" /></a>
-        <img src="https://cdn.worldvectorlogo.com/logos/javascript-4.svg" alt="JavaScript" width="40" height="40" />
+        <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" width="40" height="40" />
         <a href="https://www.typescriptlang.org/" target="_blank"> <img
                         src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript" width="40"
                         height="40" /></a>
         <a href="https://angular.io/" target="_blank"> <img
                         src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="Angular" width="30"
+                        height="40" /></a>
+        <a href="https://reactjs.org/" target="_blank"> <img
+                        src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="30"
                         height="40" /></a>
         <a href="https://docs.mongodb.com/" target="_blank"> <img
                         src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" alt="mongoDB" width="60"
@@ -102,5 +105,3 @@
                         src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="flutter" width="40"
                         height="40" /></a>
 </p>
-
-
